@@ -7,7 +7,7 @@
   "posts": [
     { "id": 1, "title": "¿Porqué adoptar animales?", "body": "pienso que es bueno porque ...","userId": 1 },
     { "id": 2, "title": "¡calentamiento?", "body": "pienso e ...","userId": 1 },
-    { "id": 3, "title": "¿crees..,?", "body": "pienso 2 cosas ...","userId": 2 },
+    { "id": 3, "title": "¿crees..,?", "body": "pienso 2 cosas ...","userId": 2 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
